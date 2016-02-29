@@ -1,0 +1,33 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WPFTrial23._02._16.Styles"
+                    xmlns:s="clr-namespace:System;assembly=mscorlib">
+
+   
+    
+
+    <!--<s:Int32 x:Key="MarginValue">10</s:Int32>
+    <s:Int32 x:Key="StandardHeight">300</s:Int32>
+    <s:Int32 x:Key="StandardWidth">450</s:Int32>
+    <s:Int32 x:Key="StandardFontSize">18</s:Int32>
+    --><!--<s:Int32 x:Key="StandardBorderBrush">2</s:Int32>-->
+
+    <!--<Thickness  x:Key="StandardBorderBrush"
+                Left="0"
+                Right="14"
+                Top="6"
+                Bottom="0" />-->
+    
+    <Thickness  x:Key="StandardMargin"
+                Left="10"
+                Right="10"
+                Top="10"
+                Bottom="10" />
+
+    <Thickness x:Key="StandardBorderThickness">10</Thickness>
+
+    <Thickness x:Key="Height">300</Thickness>
+    
+    
+    
+</ResourceDictionary> 

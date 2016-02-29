@@ -1,0 +1,31 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/Styles/ColorDictionary.xaml" />
+        
+    </ResourceDictionary.MergedDictionaries>
+
+
+    <SolidColorBrush x:Key="LabelForegroundColor"
+                     Color="{StaticResource Red}"></SolidColorBrush>
+    <SolidColorBrush x:Key="StatusBarBackgroundColor"
+                     Color="{StaticResource Azure}"></SolidColorBrush>
+    <SolidColorBrush x:Key="ButtonBackgroundColor"
+                     Color="{StaticResource LightSeaGreen}"></SolidColorBrush>
+    <SolidColorBrush x:Key="GridBackgroundColor"
+                     Color="{StaticResource Azure}"></SolidColorBrush>
+    <SolidColorBrush x:Key="BorderBackgroundColor"
+                     Color="{StaticResource Azure}"></SolidColorBrush>
+    <SolidColorBrush x:Key="TextBoxBorderColor"
+                     Color="{StaticResource Azure}"></SolidColorBrush>
+    <SolidColorBrush x:Key="StatusBarBorderColor"
+                     Color="{StaticResource Aquamarine}"></SolidColorBrush>
+    <SolidColorBrush x:Key="BorderColor"
+                     Color="{StaticResource Aquamarine}"></SolidColorBrush>
+    <SolidColorBrush x:Key="ButtonBorderColor"
+                     Color="{StaticResource Red}"></SolidColorBrush>
+
+
+
+   
+</ResourceDictionary>

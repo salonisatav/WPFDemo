@@ -1,0 +1,39 @@
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\bin\Debug\WPFTrial23.02.16.exe.config
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\bin\Debug\WPFTrial23.02.16.exe
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\bin\Debug\WPFTrial23.02.16.pdb
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.csprojResolveAssemblyReference.cache
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\MainWindow.g.cs
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Window1.g.cs
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\App.g.cs
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16_MarkupCompile.cache
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16_MarkupCompile.lref
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\MainWindow.baml
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Window1.baml
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.g.resources
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23._02._16.Properties.Resources.resources
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.csproj.GenerateResource.Cache
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.exe
+c:\users\p10320087\documents\visual studio 2015\Projects\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.pdb
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\bin\Debug\WPFTrial23.02.16.exe.config
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\bin\Debug\WPFTrial23.02.16.exe
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\bin\Debug\WPFTrial23.02.16.pdb
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Styles\BrushDictionary.baml
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\MainWindow.g.cs
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Window1.g.cs
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Window2.g.cs
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\App.g.cs
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16_MarkupCompile.cache
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16_MarkupCompile.lref
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\App.baml
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\MainWindow.baml
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Styles\ColorDictionary.baml
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Styles\SizeDictionary.baml
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Styles\StyleDictionary.baml
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Window1.baml
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\Window2.baml
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.g.resources
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23._02._16.Properties.Resources.resources
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.csproj.GenerateResource.Cache
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.exe
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.pdb
+C:\Users\P10320087\Desktop\WPFTrial23.02.16\WPFTrial23.02.16\obj\Debug\WPFTrial23.02.16.csprojResolveAssemblyReference.cache
